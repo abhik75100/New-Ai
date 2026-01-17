@@ -1,0 +1,7 @@
+{
+  "name": "Chandani AI",
+  "description": "An advanced conversational AI application that leverages Gemini with Google Search grounding to provide up-to-date and accurate answers to user queries, complete with source citations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
